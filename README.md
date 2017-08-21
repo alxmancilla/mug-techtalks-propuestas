@@ -8,7 +8,7 @@ Propuesta de charlas técnicas en comunidad de MongoDB User Group de CDMX
 
 #### Introducción
 
-Que cualquier persona que esté interesado en dar una charla técnica en la comunidad de MongoDB User Group de CDMX pueda tener un medio para proponerlo.
+Que cualquier persona que esté interesada en dar una charla técnica en la comunidad de MongoDB User Group de CDMX pueda tener un medio para proponerlo.
 
 #### Instrucciones
 
@@ -26,8 +26,4 @@ Que cualquier persona que esté interesado en dar una charla técnica en la comu
 #### Votaciones para propuestas
 
 Si estás interesado que se de una charla técnica de las propuestas en los issues, vota usando la funcionalidad "Pick your reaction" en los comentarios del issue y selecciona un +1
-
-# mug-techtalks-propuestas
-
-
 
